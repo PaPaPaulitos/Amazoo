@@ -1,0 +1,35 @@
+OPTIMIZE TABLE Fornecedor;
+
+OPTIMIZE TABLE Entrega;
+
+OPTIMIZE TABLE Enderco;
+
+OPTIMIZE TABLE Venda;
+
+OPTIMIZE TABLE Banco_de_Horas;
+
+OPTIMIZE TABLE Pessoa;
+
+OPTIMIZE TABLE Carrinho;
+
+OPTIMIZE TABLE Produto;
+
+OPTIMIZE TABLE Pacote;
+
+OPTIMIZE TABLE Cliente;
+
+OPTIMIZE TABLE Funcionario;
+
+OPTIMIZE TABLE Entregador;
+
+OPTIMIZE TABLE Higiene;
+
+OPTIMIZE TABLE Acessorio;
+
+OPTIMIZE TABLE Comida;
+
+OPTIMIZE TABLE Remedio;
+
+OPTIMIZE TABLE Empacotador;
+
+
